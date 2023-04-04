@@ -1,3 +1,3 @@
 export default function testFunction() {
-    return <div>프론트엔드 개발자 잘 준비하기</div>;
+    return <div>마이페이지</div>;
   }
